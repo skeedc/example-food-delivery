@@ -1,4 +1,3 @@
-![캡처](https://user-images.githubusercontent.com/70302880/96391638-6179d980-11f4-11eb-88c9-50b227b63b02.PNG)
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 예제 - 음식배달
